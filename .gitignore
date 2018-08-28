@@ -19,7 +19,7 @@ testrails.properties
 *.dmg
 *.gz
 *.iso
-*.jar
+#*.jar
 *.rar
 *.tar
 *.zip
@@ -75,5 +75,5 @@ local.properties
 .buildpath
 
 # Maven stuff
-target/
+#target/
 test-output/
